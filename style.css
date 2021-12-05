@@ -1,0 +1,209 @@
+body{
+    background-color:black;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: auto;
+}
+div.box1 {
+    background-color: rgba(225, 216, 255, 0.8);
+}
+div.menu {
+    justify-content: space-around;
+    display: flex;
+    margin-left: 55%;
+    padding-top: 10px;
+}
+div.box1 div.menu button {
+    background-color: rgba(14, 14, 118, 1);
+    color: blanchedalmond;
+    font-size: small;
+    border-radius: 1px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: relative;
+    bottom: 5px;
+}
+.fab {
+    font-size: 30px;
+}
+h1.title {
+    font-size: 260%;
+    text-align: center;
+    padding-top: 6%;
+}
+div.text {
+    display: contents;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 1%;
+    font-size: 143%;
+}
+div.text button {
+    background-color: rgba(14, 14, 118, 1);
+    color: blanchedalmond;
+    font-size: small;
+    border-radius: 1px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    position: relative;
+    bottom: -20px;
+}
+.img {
+    margin: auto;
+    width: 58px;  /*This should be the max-widh of your website*/ 
+    display: flex;
+    margin-left: 20%;
+    margin-top: -5%;
+    padding-top: 2%;
+    justify-content: flex-end;
+ }
+.img2 {
+   margin: auto;
+   width: 1000px;  /*This should be the max-widh of your website*/ 
+   height: 600px;
+   display: flex;
+   margin-top: -4%;
+   padding-bottom: 10px;
+}
+div.box2 {
+    background-color: rgba(202, 255, 244, 0.8);
+}
+div.box2 div.icons {
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin: 5%;
+}
+h2.title2 {
+    text-align: center;
+    margin-top: 6%;
+    font-size: 232%;
+}
+h2.ex1 {
+    text-align: left;
+    height: 38px;
+    margin-left: 12%;
+    margin-top: 11%;
+    font-size: 150%;
+}
+p.textlorem1 {
+    float: left;
+    width: 424px;
+    height: 100px;
+    margin: 2px;
+    padding: 1px;
+    margin-left: 12%;
+    margin-top: -1%;
+    font-size: 140%;
+}
+.img3 {
+    width: 900px;
+    height: 600px;
+    position: relative;
+    bottom: 324px;
+    left: 38%;
+}
+h2.ex2 {
+    text-align: center;
+    font-size: 150%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: 904px;
+    left: 54%;
+}
+.img4 {
+    width: 900px;
+    height: 600px;
+    position: relative;
+    bottom: 466px;
+    right: 3%;
+}
+p.textlorem2 {
+    text-align: left;
+    font-size: 140%;
+    width: 484px;
+    height: 100px;
+    position: relative;
+    bottom: 977px;
+    left: 54%;
+}
+h2.ex3 {
+    text-align: left;
+    height: 38px;
+    margin-left: 12%;
+    margin-top: -50%;
+    font-size: 150%;
+}
+p.textlorem3 {
+    float: left;
+    width: 424px;
+    height: 100px;
+    margin: 2px;
+    padding: 1px;
+    margin-left: 12%;
+    margin-top: -1%;
+    font-size: 140%; 
+    }
+.img5 {
+    width: 900px;
+    height: 600px;
+    position: relative;
+    bottom: 324px;
+    left: 38%;
+}
+div.box3 {
+    background-color: rgba(241, 224, 205, 1);
+}
+h1.title3 {
+    font-size: 260%;
+    text-align: center;
+    padding-top: 6%;
+}
+p.lorem4 {
+    text-align: left;
+    height: 38px;
+    margin-left: 12%;
+    font-size: 150%;
+    justify-content: space-around;
+}
+h2.name1 {
+    text-align: left;
+    height: 38px;
+    margin-left: 12%;
+    font-size: 150%;
+    justify-content: space-around;
+}
+p.lorem5 {
+    text-align: left;
+    height: 38px;
+    margin-left: 12%;
+    font-size: 150%;
+    justify-content: space-around;
+}
+h2.name2 {
+    text-align: left;
+    height: 38px;
+    margin-left: 12%;
+    font-size: 150%;
+    justify-content: space-around;
+}
+p.lorem6 {
+    text-align: left;
+    height: 38px;
+    margin-left: 12%;
+    font-size: 150%;
+    justify-content: space-around;
+}
+h2.name3 {
+    text-align: left;
+    height: 38px;
+    margin-left: 12%;
+    font-size: 150%;
+    justify-content: space-around;
+}
+.testimonials {
+    border-style: solid;
+    justify-content: center;
+}
